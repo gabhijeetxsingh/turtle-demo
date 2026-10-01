@@ -1,0 +1,1 @@
+import React from 'react';\n\nfunction App() {\n  return (\n    <div>\n      <h1>Welcome to the Carbon Market</h1>\n      <p>This is a simple React application.</p>\n    </div>\n  );\n}\n\nexport default App;
